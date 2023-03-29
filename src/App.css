@@ -1,0 +1,9 @@
+.container {
+    max-width: 31.25rem;
+    margin: 1.875rem;
+    overflow: auto;
+    min-height: 18.75;
+    border: 0.125rem solid #7fff00;
+    padding: 1.875rem;
+    border-radius: 0.625rem;
+}
