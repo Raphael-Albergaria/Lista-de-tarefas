@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.task-details-container {
+    background: #444;
+    margin: 0.938rem 0;
+    padding: 0.938rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    color: #eee;
+    border-radius: 0.313rem;
+}
+
+.task-details-container h3 {
+    margin-bottom: 0.313rem;
+    color: #7fff00;
+}
+
+.back-button-container {
+    width: 30%;
+    margin-top: 0.626rem;
+}
